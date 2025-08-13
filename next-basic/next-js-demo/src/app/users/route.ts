@@ -1,6 +1,7 @@
 export const users = [
   { id: 1, name: "Naruto Uzumaki" },
   { id: 2, name: "Itachi Uchhia" },
+  { id: 3, name: "Sasuke Uchhia" },
 ];
 
 export async function GET() {
